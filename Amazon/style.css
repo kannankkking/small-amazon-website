@@ -1,0 +1,327 @@
+.container {
+    background-color: black;
+    width: 1300px;
+    height: 60px;
+}
+
+
+
+h4 {
+    display: flex;
+    position: relative;
+    left: 11%;
+    bottom: 70px;
+}
+
+.one {
+    display: flex;
+    position: relative;
+    left: 23%;
+    bottom: 110px;
+}
+
+.search {
+    display: flex;
+    position: relative;
+    left: 35%;
+    bottom: 128px;
+    sizz
+}
+
+.sigin {
+    display: flex;
+    position: relative;
+    left: 70%;
+    bottom: 147px;
+}
+
+.ret {
+    display: flex;
+    position: relative;
+    left: 78%;
+    bottom: 188px;
+
+}
+
+.ord {
+    display: flex;
+    position: relative;
+    left: 84%;
+    bottom: 230px;
+}
+
+ul,
+li {
+    display: inline;
+    font-size: 20px;
+}
+
+li {
+    color: lightgrey;
+    cursor: pointer;
+}
+
+:hover {
+    color: black;
+}
+
+.products {
+    background-color: lightslategray;
+    width: 1300px;
+}
+
+.back {
+    position: relative;
+    bottom: 280px;
+    margin-left: 2%;
+}
+
+.on {
+    position: relative;
+    left: 300px;
+    bottom: 282px;
+
+}
+
+.two {
+    position: relative;
+    left: 600px;
+    bottom: 282px;
+   
+}
+.three{
+    position: relative;
+    left: 289px;
+    bottom: 563px;
+}
+.set1{
+    position: relative;
+   right: 90px;
+    bottom:1350px;
+}
+.se{
+    position: relative;
+    left: 40px;
+    bottom: 1435px;
+    width: 50px;
+    height: 40px;
+}
+.see{
+   position: relative;
+   left: 155px;
+   bottom: 1470px;
+}
+.seee{
+    position: relative;
+    
+ }
+ .seeee{
+    position: relative;
+    right: 120px;
+    bottom: 100px;
+ }
+ .set2{
+    position: relative;
+    left: 39px;
+    bottom: 310px;
+}
+.sett2{
+    position: relative;
+    left: 140px;
+    bottom: 62px;
+}
+.settt2{
+    position: relative;
+    left: 260px;
+    bottom:170px;
+}
+.setttt2{
+    position: relative;
+    left:260px;
+    bottom:160px;
+}
+.settttt2{
+    position: relative;
+    left: 140px;
+    bottom:260px;
+}
+.h4{
+    position: relative;
+    left: 350px;
+    bottom:650px;
+}
+.sset3{
+    position: relative;
+    left:350px;
+    bottom: 790px;
+}
+.ssett3{
+    position: relative;
+    left: 470px;
+    bottom: 870px;
+}
+.ssettt3{
+    position: relative;
+    left: 590px;
+    bottom: 970px;
+}
+.ssetttt3{
+    position: relative;
+    left: 470px;
+    bottom: 960px;
+}
+.ssettttt3{
+    position: relative;
+    left: 590px;
+    bottom: 1060px;
+}
+.set44{
+    position: relative;
+    left: 650px;
+    bottom: 1280px;
+}
+.set41{
+    position: relative;
+    left: 780px;
+    bottom: 1355px;
+}
+.seet41{
+    position: relative;
+    left: 900px;
+    bottom: 1460px;
+}
+.seeet41{
+    position: relative;
+    left: 780px;
+    bottom: 1450px;
+}
+.seeeet41{
+    position: relative;
+    left: 900px;
+    bottom: 1555px;
+}
+.deals{
+    position: relative;
+    right: 240px;
+    bottom: 1470px;
+}
+.ph{
+    position: relative;
+    bottom: 70px;
+}
+.phh{
+    position: relative;
+    bottom: 281px;
+}
+.phhh{
+    position: relative;
+    left: 570px;
+    bottom: 240px;
+}
+.phhhh{
+    position: relative;
+    left: 850px;
+    bottom: 500px;
+}
+.phhhhh{
+    position: relative;
+    left: 1100px;
+    bottom: 755px;
+}
+.best{
+    position: relative;
+    bottom: 1030px;
+    left: 100px;
+}
+.best{
+    display: flex;
+    
+
+    
+}
+.best div{
+    margin: 20px;
+}
+.selec{
+    position: relative;
+    left: 656px;
+    bottom: 1050px;
+}
+
+.sig{
+    position: relative;
+   left: 54%;
+   bottom: 1050px;
+}
+.blank{
+    background-color: black;
+    width: 1350px;
+    height:80px;
+   position: relative;
+   bottom: 1050px;
+}
+
+@media screen and (max-width:600px) {
+    .container{
+        flex-basis: 40%;
+    }
+}
+
+@media screen and (max-width:600px) {
+    .products{
+       flex-basis: 40%;
+    }
+}
+
+@media screen and (max-width:600px) {
+    .back{
+       flex-basis: 40%;
+    }
+}
+
+
+@media screen and (max-width:600px) {
+    .set1{
+       flex-basis: 40%;
+    }
+}
+@media screen and (max-width:600px) {
+    .set2{
+        flex-basis: 40%;
+    }
+}
+@media screen and (max-width:600px) {
+    .sset3{
+        float: none;
+    }
+}
+@media screen and (max-width:600px) {
+    .set44{
+        float: none;
+    }
+}
+
+@media screen and (max-width:600px) {
+    .deals{
+        float: none;
+    }
+}
+@media screen and (max-width:600px) {
+    .best{
+        float: none;
+    }
+}
+
+@media screen and (max-width:600px) {
+    .selec{
+        float: none;
+    }
+}
+
+
+
+
+
+
+
+
